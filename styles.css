@@ -7,7 +7,7 @@ body {
 	margin: auto;
 }
 
-.largetitle {
+.main-title {
 	font-size: 200px;
 	font-weight: bold;
 	text-align: center;
@@ -42,12 +42,12 @@ body {
     background-color: #FFF;
 }
 
-.maintext {
+.main-text {
  width: 60%;
  float: left;
 }
 
-.righttextbox {
+.recent-posts-box {
 	width: 33%;
 	height: 100%;
 	float: right;
@@ -55,24 +55,24 @@ body {
 	height: 100%;
 }
 
-.boxtitle {
+.box-title {
 	text-align: center;
 }
 
-.recentposts {
+.recent-posts {
 	padding: 5px;
 
 }
 
-.bulletpoints{
+.bullet-points{
 	padding: 20px;
 }
 
-.authorbox {
+.author-box {
 	width: 100%;
 }
 
-.authoricon {
+.author-icon {
 	height: 200px;
 	width: 200px;
 	float: left;
@@ -80,13 +80,13 @@ body {
   clear:both;
 }
 
-.authorname {
+.author-name {
 	margin-left: 0px;
   overflow:auto;
   display:block;
 }
 
-.authorbio{
+.author-bio{
 	font-size: 20px;
 	margin-left: 0px;
   overflow:auto;
@@ -101,7 +101,7 @@ body {
 	text-align: center;
 }
 
-.sociallogo{
+.social-logo{
 	height: 30px;
 	width: 30px;
 }
